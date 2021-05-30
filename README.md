@@ -1,7 +1,7 @@
 
 ### Screenshot
 
-![Screenshot ](https://github.com/LearnCodeWithDurgesh/Live-Cricket-Score/blob/master/screenshot/screen%203.PNG?raw=true)
+![Screenshot ](https://github.com/arthikag/cricket-live-score-application-using-react-js/blob/main/screenshot/screen%201.PNG?raw=true)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
